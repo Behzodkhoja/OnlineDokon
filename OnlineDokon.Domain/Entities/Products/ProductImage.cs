@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OnlineDokon.Domain.Entities.Products
 {
-    public class Product
+    public class ProductImage
     {
     }
 }
